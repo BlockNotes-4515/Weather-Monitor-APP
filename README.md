@@ -45,6 +45,24 @@ The WeatherApp API plays a crucial role in this project by providing access to a
     <li>Linkdin:=https://www.linkedin.com/in/dhruv-dhayal-9568b7262</li>
     <li>Github:"https://github.com/BlockNotes-4515</li>
 </ul>
+<br>
+<hr>
+<center><h1><b><i><u> PHOTO GALLERY </u></i></b></h1></center>
+<div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
+    <img src="#" alt="Image 1" style="float: left; width: 35%;">
+    <img src="#" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
+</div>
+<br>
+<div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
+    <img src="#" alt="Image 3" style="float: left; width: 35%;">
+    <img src="#" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
+</div>
+<br>
+<hr>
+
+ 
+<hr>
+
 ## Usage
 
 To use the Weather App, simply open the application in a web browser. The app will automatically detect your location and display the current weather conditions. You can also search for weather information in other locations using the search functionality.
