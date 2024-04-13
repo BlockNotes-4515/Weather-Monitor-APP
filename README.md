@@ -53,3 +53,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 Special thanks to the WeatherApp API for providing the weather data used in this project.
+
+<br>
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+<div style="text-align:center">
+    <img src="https://camo.githubusercontent.com/42e1b5782fffe784476d846af83c9d4bf17a324d657834084028ff12b0ea2b69/68747470733a2f2f6769746875622d726561646d652d6461696c792d71756f7465732d7472696e69622e76657263656c2e6170702f6170693f7468656d653d6d65726b6f2663617465676f72793d70726f6772616d6d696e6726626f726465723d7472756526626f726465725f636f6c6f723d62646632353926626f726465725f77696474683d3326626f726465725f7261646975733d343026666f6e743d6e65775f726f636b6572">
+    <img src="https://camo.githubusercontent.com/63b38e7e49d04296e1e37605b328b9c81d00efa010f39c8d2e191062d6797198/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d6d65726b6f26626f726465723d74727565">
+</div>
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
