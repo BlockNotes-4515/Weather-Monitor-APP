@@ -47,6 +47,7 @@ The WeatherApp API plays a crucial role in this project by providing access to a
 </ul>
 <br>
 <hr>
+<hr>
 <center><h1><b><i><u> PHOTO GALLERY </u></i></b></h1></center>
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
     <img src="demo pics/pic1.PNG" alt="Image 1" style="float: left; width: 35%;">
