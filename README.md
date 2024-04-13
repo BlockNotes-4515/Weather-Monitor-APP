@@ -38,6 +38,13 @@ The WeatherApp API plays a crucial role in this project by providing access to a
 - WeatherApp API: Used for retrieving weather data.
 - Geolocation API: Used for obtaining the user's location.
 
+## Important Links
+<ul>
+    <li>Live-Project:<a href="https://blocknotes-4515.github.io/Weather-Monitor-APP/"></li>
+    <li>Weather APP - Applications:<a href="https://blocknotes-4515.github.io/Weather-App-System/"></li>
+    <li>Linkdin:<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"></li>
+    <li>Github:<a href="https://github.com/BlockNotes-4515"></li>
+</ul>
 ## Usage
 
 To use the Weather App, simply open the application in a web browser. The app will automatically detect your location and display the current weather conditions. You can also search for weather information in other locations using the search functionality.
