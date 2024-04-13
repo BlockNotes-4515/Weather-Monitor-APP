@@ -40,10 +40,10 @@ The WeatherApp API plays a crucial role in this project by providing access to a
 
 ## Important Links
 <ul>
-    <li>Live-Project:<a href="https://blocknotes-4515.github.io/Weather-Monitor-APP/"></li>
-    <li>Weather APP - Applications:<a href="https://blocknotes-4515.github.io/Weather-App-System/"></li>
-    <li>Linkdin:<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"></li>
-    <li>Github:<a href="https://github.com/BlockNotes-4515"></li>
+    <li>Live-Project:https://blocknotes-4515.github.io/Weather-Monitor-APP</li>
+    <li>Weather APP - Applications: https://blocknotes-4515.github.io/Weather-App-System</li>
+    <li>Linkdin:=https://www.linkedin.com/in/dhruv-dhayal-9568b7262</li>
+    <li>Github:"https://github.com/BlockNotes-4515</li>
 </ul>
 ## Usage
 
