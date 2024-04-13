@@ -50,13 +50,13 @@ The WeatherApp API plays a crucial role in this project by providing access to a
 <hr>
 <center><h1><b><i><u> PHOTO GALLERY </u></i></b></h1></center>
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
-    <img src="demo pics/pic1.PNG" alt="Image 1" style="float: left; width: 35%;">
-    <img src="demo pics/pic2.PNG" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
+    <a href="https://blocknotes-4515.github.io/Weather-Monitor-APP/"><img src="demo pics/pic1.PNG" alt="Image 1" style="float: left; width: 35%;"></a>
+    <a href="https://blocknotes-4515.github.io/Weather-Monitor-APP/"><img src="demo pics/pic2.PNG" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;"></a>
 </div>
 <br>
 <div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
-    <img src="demo pics/pic3.PNG" alt="Image 3" style="float: left; width: 35%;">
-    <img src="demo pics/pic4.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
+    <a href="https://blocknotes-4515.github.io/Weather-Monitor-APP/"><img src="demo pics/pic3.PNG" alt="Image 3" style="float: left; width: 35%;"></a>
+    <a href="https://blocknotes-4515.github.io/Weather-Monitor-APP/"><img src="demo pics/pic4.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;"></a>
 </div>
 <br>
 <hr>
