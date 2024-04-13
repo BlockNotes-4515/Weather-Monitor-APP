@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #222;
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    font-size: 120%;
+}
+
+.card
+{
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+.search
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search:hover{
+    background: #766c6cd0;
+}
+
+/* Styles for the search button */
+button {
+    background: #50fe506b; /* Default background color */
+    border: none;
+    color: white; /* Text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border-radius: 50px; /* Makes the button circular */
+    cursor: pointer; /* Show pointer cursor on hover */
+    transition: background 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  /* Styles for button hover state */
+  button:hover {
+    background: #9ea73c6b; /* Change background color on hover */
+  }
+  
+  /* Additional styling if needed */
+  button:focus {
+    outline: none; /* Remove default focus outline */
+  }
+  
+  /* Example of using with a search icon */
+  button i {
+    margin-right: 5px; /* Adjust spacing between icon and text */
+  }
+  
+
+input.search-bar
+{
+    border: none;
+    outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 105%;
+    width: calc(100% - 100px);
+}
+
+
+
+h2.temp
+{
+    margin: 0;
+    margin-bottom: 0.4em;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Example of enlarging the content */
+.flex > * {
+    font-size: 30px; /* Adjust the font size as needed */
+    /* Or use transform to scale the content */
+    /* transform: scale(1.5); */
+}
+
+
+.description
+{
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+
+.weather-loading
+{
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+}
+
+.weather-loading.temp
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-loading.temp>*{
+    font-size: 30px;
+}
+
+.weather-loading:after{
+    visibility: visible;
+    content: "Loading...";
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 20px;
+}
+
+
+/*New Button Styling Processing CSS
+button1 {
+    width: 100%;
+    height: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 1em;
+    color: #191919;
+    font-weight: 500;
+    transition: .5s ease;
+}
+*/   /*--? Future Code for the "BHAI LANG MUNNI BADNAM HUI DARLING TERE LIYE" CODE FOR THE ENCRYPTION STANDARDS*/
+
+
+/*Loading ke liye Vanilla JS can be used */
+/*aur thakur kitne aadmi thee - sardar 3 thee aur tum kuch bhi nhi kaar paye! 
+- Shows mentos jindagi*/
+
+/* We, simple take the 3-values loader animations using the GSAP!*/
+
+
+
+
+
