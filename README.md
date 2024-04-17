@@ -44,6 +44,7 @@ The WeatherApp API plays a crucial role in this project by providing access to a
     <li>Weather APP - Applications: https://blocknotes-4515.github.io/Weather-App-System</li>
     <li>Linkdin:=https://www.linkedin.com/in/dhruv-dhayal-9568b7262</li>
     <li>Github:"https://github.com/BlockNotes-4515</li>
+    <li>Presentation (PPT): https://www.canva.com/design/DAGCpMlBmr4/YPJ9KeJwJQkIKHU2hrVMTQ/view?utm_content=DAGCpMlBmr4&utm_campaign=designshare&utm_medium=link&utm_source=editor</li>
 </ul>
 <br>
 <hr>
